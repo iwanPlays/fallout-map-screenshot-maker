@@ -8,7 +8,6 @@ from PIL import ImageChops
 from PIL import ImageOps
 from pynput.keyboard import Key, Controller
 import time
-import PIL
 
 # https://stackoverflow.com/questions/64197868/
 
